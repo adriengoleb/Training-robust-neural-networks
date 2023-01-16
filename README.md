@@ -1,4 +1,4 @@
-This is a basic code repository for Assignment 3.
+# Adversarial Attacks and defenses mechanisms Project
 
 The repository contains a basic model and a basic training and testing
 procedure. It will work on the testing-platform (but it will not
